@@ -69,6 +69,7 @@
     </Compile>
     <Compile Include="ViewModels\MainVm.cs" />
     <Compile Include="ViewModels\Vm.cs" />
+    <Compile Include="ViewModels\WeekVm.cs" />
     <Compile Include="Views\Controls\SplitGrid.cs" />
     <Compile Include="Views\Converters\HeaderListConverter.cs" />
     <Compile Include="Views\Converters\MultiConverterBase.cs" />
